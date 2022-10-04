@@ -1,10 +1,3 @@
-# MiAI_LP_Detection_SVM
-Use WPOD and SVM to detect license plate
+# Automatic-License-Plate-Recognition-WPOD-and-CNN-
 
-Article link:  http://ainoodle.tech/2019/12/05/nhan-dien-bien-so-xe-chuong-5-nhan-dien-bien-so-xe-bang-wpod-va-svm/
-
-#MìAI <br>
-Fanpage: http://facebook.com/miaiblog<br>
-Group trao đổi, chia sẻ: https://www.facebook.com/groups/miaigroup<br>
-Website: http://miai.vn<br>
-Youtube: http://bit.ly/miaiyoutube<br>
+Currently, I'm trying to design ALPR system with WPOD and using SWM in character recognition. I've met some problems with charater segmentation. Hence, this project is not actually really perfect at this time, I'm still building it up everyday without failed.  
